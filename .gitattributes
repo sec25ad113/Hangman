@@ -29,5 +29,3 @@ while True:
     print()
     if all(letter in guessed_letters for letter in word):
         print("you win!")    
-        break# Auto detect text files and perform LF normalization
-* text=auto
